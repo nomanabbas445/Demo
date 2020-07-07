@@ -6,3 +6,11 @@
 ~~This is Strike Through text~~
 
 >This is quotted line
+
+Some Basic Git Commands are:
+
+***
+git status
+git log
+git add file name
+***
