@@ -18,6 +18,6 @@ git add file name
 Please click on my [Home Page](https://www.google.com)
 
 This is my un ordered list
--Office
--Home
--Club
+- Office
+- Home
+- Club
