@@ -26,3 +26,18 @@ This is my  ordered list
 1. Office
 2. Home
 3. Club
+
+This is my  Nested list
+1. Office
+    - Daily routine task
+    - Lunch Break
+    - Video Con
+2. Home
+    - Dinner
+    - Sleep
+3. Club
+
+
+This is my New Task list
+- [x] Completed my zoom app task
+- [ ] Webwx deadline is almost nearer to end
