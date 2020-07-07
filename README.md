@@ -15,4 +15,4 @@ git log
 git add file name
 ```
 
-Please click on my [Home Page](www.google.com)
+Please click on my [Home Page](https://www.google.com)
