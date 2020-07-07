@@ -9,8 +9,8 @@
 
 Some Basic Git Commands are:
 
-***
+```
 git status
 git log
 git add file name
-***
+```
