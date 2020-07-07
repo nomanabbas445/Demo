@@ -21,3 +21,8 @@ This is my un ordered list
 - Office
 - Home
 - Club
+
+This is my  ordered list
+1. Office
+2. Home
+3. Club
